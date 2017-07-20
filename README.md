@@ -1,7 +1,7 @@
 # Movie_Trailer_Website
 A web page that displays my favorite movies info and play their trailers
 
-You can fork this project by typing the following in your terminal
+One can fork this project by typing the following in terminal
 
 git clone https://github.com/yasirhussain1/Movie_Trailer_Website
 
